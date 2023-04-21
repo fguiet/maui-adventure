@@ -98,6 +98,8 @@ Here is the result when it started to work:
 
 ![pic](images/bluetooth-1.jpg)
 
+In the picture below we can see the bluetooth working on my Android VM thanks to the great nRFConnect application.
+
 ![pic](images/bluetooth-3.jpg)
 
 ## Références
