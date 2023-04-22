@@ -102,6 +102,24 @@ In the picture below we can see the bluetooth working on my Android VM thanks to
 
 ![pic](images/bluetooth-3.jpg)
 
+## Debugging with Visual Studio 2022
+
+First launch Visual Studio 2022 and then launch the Android ADB command line then connect to the Android VM.
+
+![pic](images/debug-with-vs-1.jpg)
+
+![pic](images/debug-with-vs-2.jpg)
+
+Then you will be able de debug you project by selecting the local Android Device 
+
+![pic](images/debug-with-vs-3.jpg)
+
+## Samples
+
+You will find a sample project called `ble-helloworld` in the samples folder.
+
+This very simple project scan for nearby bluetooth devices and display them in a list.
+
 ## Références
 
 * [What is .NET MAUI?](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0)
